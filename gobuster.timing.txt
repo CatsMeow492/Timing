@@ -1,0 +1,3 @@
+/images               (Status: 301) [Size: 309] [--> http://timing.htb/images/]
+/css                  (Status: 301) [Size: 306] [--> http://timing.htb/css/]
+/js                   (Status: 301) [Size: 305] [--> http://timing.htb/js/]
