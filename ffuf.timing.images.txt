@@ -1,0 +1,257 @@
+[2K/etc/ftphosts           [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/chttp.conf         [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/at.deny            [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/cron.allow         [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/ftpchroot          [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/anacrontab         [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/lilo.conf          [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/grub.conf          [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/aliases            [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/bashrc             [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/passwd             [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/hosts.allow        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/httpd/access.conf  [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/motd               [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/apache2/httpd.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/hosts.deny         [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/logrotate.d/proftpd [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/logrotate.d/ftp    [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/lsb-release        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/logrotate.d/vsftpd.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/cups/cupsd.conf    [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/my.cnf             [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/mtab               [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/passwd             [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/npasswd            [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/php4/apache2/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/php4/cgi/php.ini   [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/php4.4/fcgi/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/php4/apache2/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/php4/apache/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/php5/apache2/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/php5/apache/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/php.ini            [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/php/apache/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/php/php.ini        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/php/apache2/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/php/cgi/php.ini    [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/php/php4/php.ini   [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/printcap           [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/profile            [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/proftp.conf        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/proftpd/proftpd.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/pure-ftpd.conf     [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/pureftpd.passwd    [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/pure-ftpd/putreftpd.pdb [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/pure-ftpd/pure-ftpd.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/pure-ftpd/pure-ftpd.pdb [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/pureftpd.pdb       [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/redhat-release     [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/resolv.conf        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/samba/smb.conf     [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/sysconfig/network  [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/ssh/sshd_config    [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/snmpd.conf         [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/syslog.conf        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/ssh/ssh_host_key.pub [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/ssh/ssh_host_dsa_key [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/ssh/ssh_host_dsa_key.pub [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/ssh/ssh_host_key   [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/ssh/ssh_config     [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/termcap            [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/vsftpd/vsftpd.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/vsftpd.chroot_list [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/wu-ftpd/ftpaccess  [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/vsftpd.conf        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/vhcs2/proftpd/proftpd.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/wu-ftpd/ftpusers   [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/wu-ftpd/ftphosts   [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/logs/security_debug_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/logs/pure-ftpd.log     [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/logs/security_log      [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/opt/xampp/etc/php.ini  [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/opt/lampp/etc/httpd.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/proc/interrupts        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/proc/meminfo           [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/proc/modules           [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/proc/cpuinfo           [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/proc/ioports           [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/proc/filesystems       [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/proc/mounts            [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/proc/stat              [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/proc/swaps             [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/proc/version           [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/proc/self/net/arp      [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/root/anaconda-ks.cfg   [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/etc/pure-ftpd.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/apache/conf/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/lib/php.ini        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/lib/php/php.ini    [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/apache/conf/modsec.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/apache/log   [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/apache/logs/access_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/apache/logs  [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/apache/audit_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/cpanel/logs/access_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/cpanel/logs/error_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/apache/error.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/cpanel/logs  [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/apache/error_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/apache/logs/access.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/cpanel/logs/license_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/cpanel/logs/login_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/cpanel/logs/stats_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/etc/php.ini  [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/etc/httpd/logs/error_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/lib/php.ini  [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/etc/pureftpd.pdb [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/etc/pure-ftpd.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/etc/httpd/logs/access_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/php4/httpd.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/php4/httpd.conf.php [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/php4/lib/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/php5/httpd.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/php5/httpd.conf.php [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/php/lib/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/php/httpd.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/pureftpd/etc/pure-ftpd.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/php/httpd.conf.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/php5/lib/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/pureftpd/etc/pureftpd.pdn [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/pureftpd/sbin/pure-config.pl [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/Zend/etc/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/sbin/pure-config.pl [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/usr/local/www/logs/httpd_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/cpanel/cpanel.config [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/apache/logs/access_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/adm/log/xferlog    [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/apache/logs/error_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/apache2/config.inc [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/lib/mysql/my.cnf   [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/lib/mysql/mysql/user.MYD [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/apache2/access_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/local/www/conf/php.ini [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/apache2/error.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/apache/access_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/apache2/access.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/apache2/error_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/apache/access.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/apache/error_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/apache/error.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/apache-ssl/access.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/apache-ssl/error.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/auth.log       [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/htmp               [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/cups/error.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/boot           [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/chttp.log      [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/groups             [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/bootptab           [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/debug          [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/daemon.log     [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/dmesg          [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/dpkg.log       [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/exim_mainlog   [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/exim/mainlog   [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/exim.paniclog  [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/exim_rejectlog [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/ftp-proxy      [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/exim_paniclog  [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/faillog        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/exim/rejectlog [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/ftplog         [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/ftp-proxy/ftp-proxy.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/httpd/access_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/httpd/access.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/httpd/error.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/httpd/error_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/kern.log       [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/httpsd/ssl_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/lighttpd/error.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/lastlog        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/httpsd/ssl.access_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/lighttpd/access.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/lighttpd/lighttpd.error.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/lighttpd/lighttpd.access.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/mail.info      [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/mail.log       [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/mail.warn      [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/maillog        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/message        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/messages       [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/mysqlderror.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/mysql/mysql.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/mysql/mysql-slow.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/mysql.log      [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/proftpd        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/mysql/mysql-bin.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/pureftpd.log   [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/pure-ftpd/pure-ftpd.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/vsftpd.log     [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/secure         [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/xferlog        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/wtmp           [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/log/yum.log        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/mysql.log          [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/spool/cron/crontabs/root [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/www/log/access_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/run/utmp           [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/webmin/miniserv.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/www/log/error_log  [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/www/logs/access_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/www/logs/access.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/www/logs/error_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/var/www/logs/error.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K~/.atfp_history         [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.bash_history         [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.bash_profile         [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.bashrc               [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.bash_logout          [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.gtkrc                [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.logout               [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.login                [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.mysql_history        [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.nano_history         [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.php_history          [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.profile              [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.ssh/authorized_keys  [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.ssh/id_dsa           [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.ssh/id_rsa.pub       [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.ssh/id_dsa.pub       [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.ssh/id_rsa           [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.viminfo              [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.ssh/identity         [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.ssh/identity.pub     [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.wm_style             [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.Xdefaults            [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.xinitrc              [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.xsession             [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K~/.Xresources           [Status: 200, Size: 0, Words: 1, Lines: 1]
+[2K/etc/exports            [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/ftpaccess          [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/httpd/logs/access_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/httpd/httpd.conf   [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/issue              [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/httpd/srm.conf     [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/inetd.conf         [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/httpd/php.ini      [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/inittab            [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/httpd/conf/httpd.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/httpd/logs/error_log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/cron.deny          [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/chrootUsers        [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/apache2/apache2.conf [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/shadow             [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/at.allow           [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/fstab              [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/hosts              [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/lighttpd.conf      [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/httpd/logs/error.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/httpd/logs/access.log [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/motd               [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/modules.conf       [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/crontab            [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/my.conf            [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/mysql/my.cnf       [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/network/interfaces [Status: 200, Size: 25, Words: 3, Lines: 1]
+[2K/etc/networks           [Status: 200, Size: 25, Words: 3, Lines: 1]
